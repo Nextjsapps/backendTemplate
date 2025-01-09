@@ -1,0 +1,22 @@
+{
+    "dashboardLinks": {
+        "title" : "Dashboard"
+    },
+    "NavbarLinks": {
+        "home": "home",
+        "homeTitle": "Home page",
+        "about": "about",
+        "aboutTitle": "about page",
+        "profile": "profile",
+        "profileTitle": "profile page",
+        "quran" : "Quran Page",
+        "quranTitle": "quran page title"
+    },
+    "HomePage": {
+        "title": "Landing page en",
+        "subtitle": "subtitle en"
+    },
+    "ProfilePage": {
+        "title": "Profile page en"
+    }
+}
